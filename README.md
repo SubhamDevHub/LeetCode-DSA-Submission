@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
