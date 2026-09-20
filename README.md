@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
