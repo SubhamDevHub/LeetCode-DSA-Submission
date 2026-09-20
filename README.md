@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamDevHub/LeetCode-DSA-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
